@@ -6,7 +6,8 @@
 - 🌱 I decided to learn web developement and I am staring from scratch. It's a cut-and-dried decison, I want to become a front-end developer. I am giving my first steps on HTML5, and afterwards I am going to CSS3, and then JavaScript. I've been taking English classes on an online language school called Fluency Academy.
 - 💞️ Estou em busca de colaborar em projetos no qual em possa fazer parte e ajudar meus companheiros com os mesmos. Fazer parte de uma ótima rede que é prestativa com iniciantes como eu será otimamente ótimo! E sei que o GitHub me propocionará isso.
 - 💞️ I’m looking to collaborate on projects that I can take part in and to help my fellows with them. To be part of a great network that is cater for beginners just like me will be greatly great, and I know that GitHub will provided me with such thing.
-- 📫 Meu Instagram 
+- 📫 Meu Instagram https://www.instagram.com/gabriel_s.0/
+- 📫 Meu e-mail pessoal: gabricavalcante584@gmail.com
 
 <!---
 GabrielCaval/GabrielCaval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
