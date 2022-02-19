@@ -1,5 +1,5 @@
-- 👋 Olá, eu me chamo Gabriel! Tenho 27 anos e estou aprendendo programação.
-- 👋 Hello, my name's Gabriel! I am a 27-year-old guy who is learning computer programming.
+- 👋 Olá, eu me chamo Gabriel! Tenho 27 anos e estou aprendendo programação no site https://www.freecodecamp.org/
+- 👋 Hello, my name's Gabriel! I am a 27-year-old guy who is learning computer programming on the website https://www.freecodecamp.org/
 - 👀 Estou interessado em conhecer pessoas bacanas aqui que poderão me ajudar na minha jornada, também espero ajudar:)
 - 👀 I am interested in knowing people that are helping me on my journey when I need it, and hopefully I will be able to help some ones here as well.
 - 🌱 Eu decidi aprender front-end do absoluto 0. Estou bem determinado em seguir a carreira web. Estou dando meus primeiros passos em HTML5, depois partirei para CSS3, e JavaScript e assim continuar evoluindo, já que programação é uma carreira onde novos problemas estão surgindo a todo momento, e outros podem ser achados se vasculharmos. Eu também estou cursando Inglês em uma escola on-line chamada Fluency Academy https://fluencycorporate.fluencyacademy.io/
